@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: center;
+
+}
+
+.left h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.fent-image {
+    width: 150px;
+    height: 150px;
+}
+
+.fent-image:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
